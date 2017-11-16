@@ -12,4 +12,13 @@ int main()
   int c = a * b;
 
   std::cout << c << '\n';
+
+  // this is very nice
+
+  int bb = 88;
+  float tt = 100;
+
+  int v = bb * tt;
+
+  std::cout << v << '\n';
 }
