@@ -21,4 +21,6 @@ int main()
   int v = bb * tt;
 
   std::cout << v << '\n';
+
+  std::cout << "/* we wanna add this the master */" << '\n';
 }
