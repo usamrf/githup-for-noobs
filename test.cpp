@@ -15,6 +15,7 @@ int main()
   std::cout << c << '\n';
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
   // this is very nice
 
@@ -26,6 +27,8 @@ int main()
   std::cout << v << '\n';
 =======
 >>>>>>> parent of 8be3118... add calculation
+=======
+>>>>>>> parent of 0e35a29... add new cal
 =======
 >>>>>>> parent of 0e35a29... add new cal
 =======
